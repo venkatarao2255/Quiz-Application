@@ -1,7 +1,7 @@
 # Quiz-Application
 This project implements a simple quiz application using Tkinter, a Python GUI library. The application presents a series of multiple-choice questions to the user and evaluates their responses to determine the final score.
 
-![Quiz App Screenshot](screenshot1.png)
+![Quiz App Screenshot](Screenshot1.png)
 
 ## Technologies Used
 
@@ -44,9 +44,9 @@ This project implements a simple quiz application using Tkinter, a Python GUI li
 
 ## Screenshots
 
-![Quiz App Screenshot 1](screenshot2.png)
+![Quiz App Screenshot 1](Screenshot2.png)
 
-![Quiz App Screenshot 2](screenshot3.png)
+![Quiz App Screenshot 2](Screenshot3.png)
 
 ## Contributing
 
