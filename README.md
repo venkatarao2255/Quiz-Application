@@ -34,7 +34,7 @@ This project implements a simple quiz application using Tkinter, a Python GUI li
 3. Run the Python script to launch the quiz app.
 
     bash
-    Quiz-Application.py
+    Quiz Project.py
     
 
 4. Enter your username and click "ENTER" to start the quiz.
